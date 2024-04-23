@@ -4,7 +4,7 @@ In this repo I implemented a simple CNN for face emotion recognition
 
 ## Datset
 
-I used **FER2013** dataset which is one of the most challanging datasets that contains approximately 30,000 , 48×48 pixel images in 7 categories :
+I used **FER2013** dataset which is one of the most challanging datasets that contains approximately 30,000 , 48×48 images in 7 categories :
 
 ``` 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral ```
 
