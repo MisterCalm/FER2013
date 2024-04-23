@@ -6,7 +6,13 @@ In this repo I implemented a simple CNN for face emotion recognition
 
 I used **FER2013** dataset which is one of the most challanging datasets that contains approximately 30,000 , 48×48 images in 7 categories :
 
-``` 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral ```
+``` Angry = 0
+Disgust = 1 
+Fear = 2
+Happy = 3
+Sad = 4
+Surprise = 5
+Neutral = 6```
 
 you can find the dataset [here](https://www.kaggle.com/datasets/msambare/fer2013)
 
