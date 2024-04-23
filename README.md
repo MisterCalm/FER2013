@@ -1,6 +1,6 @@
 # Face Emotion Recognition (FER)
 
-In this repo I implemented a CNN for face emotion recognition
+In this repo I implemented a simple CNN for face emotion recognition
 
 ## Datset
 
@@ -12,6 +12,6 @@ you can find the dataset [here](https://www.kaggle.com/datasets/msambare/fer2013
 
 ## Accuracy
 
-the State of art of this dataset is around 75% accuracy and I reached ***63%*** accuracy in **train and validation sets** and  around ***62.7%*** accuracy in **test set**.
+the State of art of this dataset is around 75% accuracy and I reached ***63%*** accuracy in **train and validation sets** and  around ***62.7%*** accuracy in **test set** in 50 epochs.
 it is considerable that **human-level accuracy** of this dataset is only at ***65±5%***
 that shows our model has reached to the human level performance.
