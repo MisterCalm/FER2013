@@ -1,4 +1,4 @@
-FER
+#FER
 
 In this repo I implemented a CNN for face emotion recognition on FER2013 dataset which is one of the most challanging datasets that contains images with 48×48 pixels.
 
