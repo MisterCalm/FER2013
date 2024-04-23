@@ -1,6 +1,6 @@
 # Face Emotion Recognition (FER)
 
-In this repo I implemented a CNN for ***face emotion recognition***
+In this repo I implemented a CNN for face emotion recognition
 
 ## Datset
 
