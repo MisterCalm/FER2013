@@ -23,3 +23,9 @@ you can find the dataset [here](https://www.kaggle.com/datasets/msambare/fer2013
 the State of art of this dataset is around 75% accuracy and also winner model  had 71% accuracy and I reached ***63%*** accuracy in **train and validation sets** and  around ***62.7%*** accuracy in **test set** in 50 epochs.
 it is considerable that **human-level accuracy** of this dataset is only at ***65±5%***
 that shows our model has reached to the human level performance.
+
+## Architecture
+
+in this picture you can see the model architecture :
+
+![model_architecture](https://github.com/MisterCalm/FER2013/assets/105553956/5de69874-ea8f-46e9-8a14-420fb326e17e)
